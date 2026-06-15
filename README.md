@@ -1,3 +1,6 @@
+
+Desktop client source code is coming tomorrow! Cleaning up the repository. Android APK & Desktop binaries are already live in the Releases section for testing. 🔥
+
 # ⚡ FlickerDrop (v1.0) - High-Speed Offline Optical Data Transfer Ecosystem
 
 FlickerDrop is an innovative, cross-platform data transfer framework engineered to stream data completely offline. By transforming complex binary files into high-frequency dynamic visual frames, it establishes a high-throughput communication channel between your computer and mobile phone. 
