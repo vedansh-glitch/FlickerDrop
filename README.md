@@ -1,36 +1,48 @@
-# ⚡ FlickerDrop (v1.0) - Offline Optical Data Transfer Ecosystem
+# ⚡ FlickerDrop (v1.0) - High-Speed Offline Optical Data Transfer Ecosystem
 
-FlickerDrop is an innovative, high-speed, cross-platform data transfer framework designed to operate completely offline. By utilizing dynamic and animated QR code streaming, it establishes a reliable physical line-of-sight communication channel between devices. No Wi-Fi, No Bluetooth, No Cellular Data, and No Cables required!
-
----
-
-## 🚀 How to Run
-
-Setting up and deploying the ecosystem is simple. Follow the platform-specific instructions below:
-
-### 💻 Windows Client (Sender)
-1. Navigate to the **Releases** section on the right side of this repository and download `FlickerDrop_PC_v1.0.zip`.
-2. Extract the `.zip` file completely on your computer.
-3. Open the extracted folder (Note: Do **NOT** modify or delete any files inside the `dist` folder to prevent system instability).
-4. Double-click the custom-branded **`⚡ Launch FlickerDrop.exe`** executable.
-5. The application will launch instantly with the custom asset logo natively integrated into the Windows environment.
-
-### 📱 Android Client (Receiver)
-1. Locate and download the `FlickerDrop_Mobile.apk` directly from the **Releases** section.
-2. Install the `.apk` package on your Android device and grant camera permissions.
-3. Align the smartphone camera with your PC screen while it flashes the dynamic QR stream. The application will instantly compile and save the transmitted data packets automatically.
+FlickerDrop is an innovative, cross-platform data transfer framework engineered to stream data completely offline. By transforming complex binary files into high-frequency dynamic visual frames, it establishes a high-throughput communication channel between your computer and mobile phone. 
 
 ---
 
-## 👨‍💻 About the Developer
+## 🔒 Crucial Network Requirement (Read Before Running)
 
-Hi, I am **Vedansh** (online as **VedanshOG**), an independent developer, technology innovator, and currently a **Class 11 student & JEE Aspirant**. 
-
-Balancing rigorous academic preparation for the Joint Entrance Examination (JEE) with software engineering, my core passion lies in localized data networking, alternative communication protocols, and custom system frameworks. I designed and built **FlickerDrop** as an engineering challenge to demonstrate that high-throughput, secure, and privacy-first data routing can be fully achieved through pure physical line-of-sight optical dynamics—entirely independent of radio frequencies (RF).
-
-* **Current Focus:** Class 11 (PCM) + Core JEE Academic Preparation.
-* **Core Competencies:** Python Application Architecture, Standalone Executable Customization, GUI/UX Flow Engineering.
-* **My Vision:** Melding core physics and mathematical coding concepts to build real-world alternative transmission tech that operates safely beyond standard wireless frameworks.
+> ⚠️ **NO INTERNET REQUIRED:** This system is 100% data-free and offline. However, to synchronize the local data packet routing frames between the desktop terminal and your mobile device, **you must connect your phone to your computer's local Wi-Fi Hotspot**. No active internet data or cellular plan is needed—the hotspot acts purely as a local network bridge to authorize frame transmission!
 
 ---
-🤝 *If you find this concept innovative or useful, feel free to support the project by leaving a **Star (⭐)** on this repository!*
+
+## 🚀 Detailed Setup & Execution Guide
+
+Setting up the ecosystem takes less than a minute. Follow these steps precisely:
+
+### 💻 1. Windows Host Configuration (Sender)
+1. Head over to the **Releases** tab on the right side of this repository and download the compiled `FlickerDrop_PC_v1.0.zip` package.
+2. Extract the `.zip` archive completely into a dedicated folder on your local drive.
+3. **Important:** Do **NOT** modify, move, or delete any configurations inside the generated `dist` folder, as it contains core architectural dependencies.
+4. Turn on your PC's Wi-Fi hotspot and connect your mobile device to it.
+5. Double-click **`⚡ Launch FlickerDrop.exe`** to initialize. The program will boot instantly with the custom integrated brand asset logo, operating cleanly without launching an ugly backend command prompt or terminal window.
+
+### 📱 2. Android Device Setup (Receiver)
+1. Download the `FlickerDrop_Mobile.apk` file from the **Releases** matrix (or transfer the bundled copy from your extracted PC folder).
+2. Install the `.apk` on your smartphone and grant the necessary Camera permissions.
+3. Open the application, match the hotspot network framework, and point your phone’s camera directly at the dynamic visual streaming blocks flashing on your monitor.
+4. The receiver client will automatically track, capture, compile, and unpack the transmitted data fragments back into the original file instantly!
+
+---
+
+## 👨‍💻 About the Developer & Content Creator
+
+Hi there! I am **Vedansh**, widely recognized across the digital space as **VedanshOG**. I am an independent full-stack developer, software builder, and an active technology creator, currently balancing my journey as a **Class 11 Science student and dedicated JEE Aspirant**.
+
+Engineering complex applications alongside rigorous academic preparation for the Joint Entrance Examination (JEE) requires a lot of grit. I built **FlickerDrop** as an advanced engineering challenge to prove that secure, privacy-first alternative data transmission can be efficiently carried out using visible light and local localized data syncing.
+
+### 📊 Digital Footprint & Stats:
+Beyond writing code, I enjoy breaking down tech concepts, showcasing software builds, and engaging with an active digital community:
+* 📸 **Instagram:** Over **3.5K+ Followers** ([@VedanshOG](https://instagram.com/)) - Where I share snippets of my developer life, setup updates, and coding breakthroughs.
+* 🎥 **YouTube:** **109+ Subscribers** ([VedanshOG](https://youtube.com/)) - My dedicated space for technical demos, project launches, and documenting my journey as a young programmer.
+
+### 🎯 Technical Blueprint:
+* **Core Domains:** Python System Architecture, Standalone Executable Packaging, Responsive Cross-Platform GUI/UX Flow Creation.
+* **The Vision:** Bridging foundational physics concepts with modern computer science to engineer offline, off-grid communication software that bypasses traditional cloud-dependent restrictions.
+
+---
+🤝 *If you find this project innovative, inspiring, or helpful for your own learning, please support my work by dropping a **Star (⭐)** on this repository! It motivates me to build more open-source systems while balancing my JEE prep!*
