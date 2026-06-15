@@ -22,7 +22,7 @@ Setting up the ecosystem takes less than a minute. Follow these steps precisely:
 5. Double-click **`⚡ Launch FlickerDrop.exe`** to initialize. The program will boot instantly with the custom integrated brand asset logo, operating cleanly without launching an ugly backend command prompt or terminal window.
 
 ### 📱 2. Android Device Setup (Receiver)
-1. Download the `FlickerDrop_Mobile.apk` file from the **Releases** matrix (or transfer the bundled copy from your extracted PC folder).
+1. Download the `FlickerDrop_Mobile.apk` file from the **Releases** matrix.
 2. Install the `.apk` on your smartphone and grant the necessary Camera permissions.
 3. Open the application, match the hotspot network framework, and point your phone’s camera directly at the dynamic visual streaming blocks flashing on your monitor.
 4. The receiver client will automatically track, capture, compile, and unpack the transmitted data fragments back into the original file instantly!
@@ -36,9 +36,13 @@ Hi there! I am **Vedansh**, widely recognized across the digital space as **Veda
 Engineering complex applications alongside rigorous academic preparation for the Joint Entrance Examination (JEE) requires a lot of grit. I built **FlickerDrop** as an advanced engineering challenge to prove that secure, privacy-first alternative data transmission can be efficiently carried out using visible light and local localized data syncing.
 
 ### 📊 Digital Footprint & Stats:
-Beyond writing code, I enjoy breaking down tech concepts, showcasing software builds, and engaging with an active digital community:
-* 📸 **Instagram:** Over **3.5K+ Followers** ([@VedanshOG](https://instagram.com/)) - Where I share snippets of my developer life, setup updates, and coding breakthroughs.
-* 🎥 **YouTube:** **109+ Subscribers** ([VedanshOG](https://youtube.com/)) - My dedicated space for technical demos, project launches, and documenting my journey as a young programmer.
+Beyond writing code, I enjoy breaking down tech concepts, showcasing software builds, and engaging with an active digital community. Let's connect here:
+
+* 📸 **Instagram:** Over **3.5K+ Followers** 👉 [Follow @Vedansh.madaan on Instagram](https://instagram.com/vedansh.madaan)
+  *(Where I share snippets of my developer life, setup updates, and coding breakthroughs)*
+
+* 🎥 **YouTube:** **109+ Subscribers** 👉 [Subscribe to VedanshOG on YouTube](https://youtube.com/@VedanshOG)
+  *(My dedicated space for technical demos, project launches, and documenting my journey as a young programmer)*
 
 ### 🎯 Technical Blueprint:
 * **Core Domains:** Python System Architecture, Standalone Executable Packaging, Responsive Cross-Platform GUI/UX Flow Creation.
