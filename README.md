@@ -13,10 +13,10 @@ Setting up and deploying the ecosystem is simple. Follow the platform-specific i
 2. Extract the `.zip` file completely on your computer.
 3. Open the extracted folder (Note: Do **NOT** modify or delete any files inside the `dist` folder to prevent system instability).
 4. Double-click the custom-branded **`⚡ Launch FlickerDrop.exe`** executable.
-5. The application will launch instantly with the custom asset logo natively integrated into the Windows environment, running completely detached from any command terminal.
+5. The application will launch instantly with the custom asset logo natively integrated into the Windows environment.
 
 ### 📱 Android Client (Receiver)
-1. Locate and download the `FlickerDrop_Mobile.apk` directly from the **Releases** section or use the one bundled within the extracted folder.
+1. Locate and download the `FlickerDrop_Mobile.apk` directly from the **Releases** section.
 2. Install the `.apk` package on your Android device and grant camera permissions.
 3. Align the smartphone camera with your PC screen while it flashes the dynamic QR stream. The application will instantly compile and save the transmitted data packets automatically.
 
@@ -31,3 +31,6 @@ Balancing rigorous academic preparation for the Joint Entrance Examination (JEE)
 * **Current Focus:** Class 11 (PCM) + Core JEE Academic Preparation.
 * **Core Competencies:** Python Application Architecture, Standalone Executable Customization, GUI/UX Flow Engineering.
 * **My Vision:** Melding core physics and mathematical coding concepts to build real-world alternative transmission tech that operates safely beyond standard wireless frameworks.
+
+---
+🤝 *If you find this concept innovative or useful, feel free to support the project by leaving a **Star (⭐)** on this repository!*
